@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import sys, requests
-sys.path.append("/home/tokgeo/GitHub/ccan_viewer/")
 from datetime import datetime
 from bson.objectid import ObjectId
 import xml.etree.ElementTree as XML
